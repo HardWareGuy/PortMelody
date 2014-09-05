@@ -1,10 +1,12 @@
 package portmelody
 
 import (
-	"code.google.com/p/portaudio-go/portaudio"
+	"github.com/HardWareGuy/portaudio-go"
 	"math"
 	"time"
 )
+
+///////////////// TODO: PUSH IN EVERYTHING
 
 const sampleRate = 44100
 
